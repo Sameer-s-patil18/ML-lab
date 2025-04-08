@@ -1,0 +1,5 @@
+sky	airTemp	humidity	wind	water	forecast	enjoySport
+Sunny	warm	normal	strong	warm	same	Yes
+Sunny	warm	high	strong	warm	same	Yes
+Rainy	cold	high	strong	warm	change	No
+Sunny	warm	high	strong	cool	change	Yes
